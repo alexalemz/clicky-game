@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Dustin Henderson",
+    "image": "/pics/Dustin Henderson.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Eleven",
+    "image": "/pics/Eleven.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jim Hopper",
+    "image": "/pics/Jim Hopper.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jonathan Byers",
+    "image": "/pics/Jonathan Byers.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Joyce Byers",
+    "image": "/pics/Joyce Byers.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lucas Sinclair",
+    "image": "/pics/Lucas Sinclair.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mike Wheeler",
+    "image": "/pics/Mike Wheeler.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nancy Wheeler",
+    "image": "/pics/Nancy Wheeler.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Steve Harrington",
+    "image": "/pics/Steve Harrington.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Will Byers",
+    "image": "/pics/Will Byers.jpg"
+  }
+]
